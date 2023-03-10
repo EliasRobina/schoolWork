@@ -3,6 +3,8 @@
 //creates a new log object
 OpenLog myLog;
 
+//Elias is a good student who almost always gets his work done
+
 //sets up any pins and connection
 //checks if file exist, if not make it 
 //than save and data to it
